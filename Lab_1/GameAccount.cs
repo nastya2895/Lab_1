@@ -10,6 +10,8 @@ public class GameAccount
     {
         UserName = userName;
         CurrentRating = currentRating < 1 ? 1 : currentRating;
+
+
         GamesCount = gamesCount;
     }
 

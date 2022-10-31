@@ -16,6 +16,7 @@ public class GameHistory
         Player2 = secondPlayer;
         WinPlayer1 = winFirstPlayer;
         ID = Index++;
+
     }
 
     public void GetStatsGame()
